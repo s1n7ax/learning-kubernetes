@@ -23,6 +23,7 @@
           buildInputs = [
             kubectl
             minikube
+            kubectx
             eza
             fd
           ];
